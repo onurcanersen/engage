@@ -1,6 +1,15 @@
 # Engage
 
-## Available Scripts
+Engage helps presenters to interact more with their audience by enabling asking, gathering questions, and upvoting questions.
+
+## Built With
+
+- React
+- Bootstrap
+- Spring Boot
+- PostgreSQL
+
+## Getting Started
 
 In the `backend` directory, you can run:
 
@@ -27,3 +36,6 @@ Stops the project
 ![image](https://user-images.githubusercontent.com/73167337/180852207-e145716c-14ef-4c48-96be-a232c4fb1914.png)
 ![image](https://user-images.githubusercontent.com/73167337/180852273-4a2f9da2-2a2f-4242-8bef-6f53ccb0e08d.png)
 ![image](https://user-images.githubusercontent.com/73167337/180852356-e0709c35-151a-4c0e-b027-6bd52eaaa05c.png)
+
+## Contact
+Onurcan Erşen - ocersen@gmail.com
