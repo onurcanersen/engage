@@ -1,6 +1,6 @@
 # Engage
 
-Engage helps presenters to interact more with their audience by enabling asking, gathering questions, and upvoting questions.
+Engage helps presenters to interact more with their audience by enabling asking, gathering, and upvoting questions.
 
 ## Built With
 
